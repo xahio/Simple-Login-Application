@@ -33,7 +33,7 @@ This is a simple login application written in Node.js with Express.js. It allows
 After installing the dependencies, you can start the server by running the following command:
 
 ```bash
-npm start
+node server.js
 ```
 
 The server will be running on port 4000. You can change the port by editing the `PORT` variable in the `server.js` file.
